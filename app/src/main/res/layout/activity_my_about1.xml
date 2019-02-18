@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/pic2"
+    tools:context="com.example.dhania.mycdcdc.My_about1">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="30dp"
+
+            android:orientation="vertical">
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="40dp"
+        android:text="ABOUT"
+        android:layout_marginBottom="22dp"
+        android:fontFamily="serif"
+        android:textStyle="bold"
+        android:textSize="35dp"
+        android:layout_marginLeft="105dp"
+
+        />
+
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="130dp"
+        android:text="As education advances through what one can call “a tectonic shift of ideas and practices”, the need to accommodate changes and ramp up procedures is the need of the hour, especially when it comes to JEE and other critical exam preparations"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="130dp"
+        android:text="While self-study can aid to a limited extent, students need guidance from professionals outside the school environment, to get that extra edge. This is where good coaching centres play an important role.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="60dp"
+        android:text="Here are the four main benefits of seeking guidance from coaching institutes:
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="100dp"
+        android:text="Guidance: The faculty employed by coaching centres has prior knowledge regarding the competitive exams and are able to guide aspirants accordingly.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="120dp"
+        android:text="Here, the faculty helps students hone their skills and transform their weaknesses into strengths. When students study without proper mentoring, they tend to lose their way. Coaching institutes help nudge them back into the right path.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="100dp"
+        android:text="Study material: While the books provided by the school are similar, irrespective of the boards, study material of coaching institutes differ in the intensity and variety of lessons imparted.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="100dp"
+        android:text="The material provided by coaching classes is designed by experts after thorough study and detailed analysis of the syllabus and current exam patterns.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="120dp"
+        android:text="They are more likely to cover topics on the basis of their importance in the exam and help aspirants take up a targeted approach to crack them. Study materials drafted under the guidance of experts follow an innovative approach providing solutions to problems.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="90dp"
+        android:text="Time management:Some aspirants find it difficult to manage time and do not have the dexterity needed to ace the exam.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="70dp"
+        android:text="CDC Coaching institutes aid them in slotting time on the basis of the difficulty level they are likely to encounter.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="70dp"
+        android:text="A CDC can teach the art of devoting a minimum amount of time, while maximising effort for exam preparation.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+    <TextView
+        android:layout_width="330dp"
+        android:layout_height="200dp"
+        android:text="Motivation: It is common for students to get stuck as one keeps on solving a particular type of problem on a daily basis; it is a problem that every exam preparation comes with. Redundancy annihilates the feeling of a positive outcome amongst aspirants and makes the preparation process dreary and de-motivating. CDC can help bring back the zeal of learning through their innovative pedagogy that makes mundane lessons interesting.
+"
+        android:textSize="15dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="100sp"
+        />
+
+
+</LinearLayout>
+    </RelativeLayout>
+
+</ScrollView>
